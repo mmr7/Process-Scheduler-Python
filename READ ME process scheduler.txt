@@ -1,0 +1,5 @@
+This is a process and job shceduling program in python. It takes in the input file and first parses it. 
+
+Every time a line is read, it updates the system to the time of the new line arrival. 
+
+Once all lines have been read, it continous until all jobs have been completely processed. 
